@@ -10,7 +10,7 @@ import test.Suma;
 
 
 public class SumaTest {
-	private Suma suma;
+	private Suma suma; 
 
 	@Before
 	public void paraEjecutarAntes() {
